@@ -1,0 +1,16 @@
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\bin\Debug\net6.0\Ex01.exe
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\bin\Debug\net6.0\Ex01.deps.json
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\bin\Debug\net6.0\Ex01.dll
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\bin\Debug\net6.0\ref\Ex01.dll
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\bin\Debug\net6.0\Ex01.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.GlobalUsings.g.cs
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.dll
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\ref\Ex01.dll
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\GB\факультет разработчик\Языки программирования\Lecture 01\Practice lesson 01\Examples\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
